@@ -2,7 +2,7 @@
 
 - Localizar um estado específico através de sua letra ou conjunto de caracteres iniciais
 
-Requisitos:
-1 - Criar um banco de dados chamado de "bd_treino" ou de sua escolha no phpMyAdmin(XAMPP)
-2 - Criar uma tabela chamada "estados_brasil" com 3 colunas: estado varchar(30), capital varchar(30) e sigla varchar(2)
+Requisitos:<br/>
+1 - Criar um banco de dados chamado de "bd_treino" ou de sua escolha no phpMyAdmin(XAMPP)<br/>
+2 - Criar uma tabela chamada "estados_brasil" com 3 colunas: estado varchar(30), capital varchar(30) e sigla varchar(2)<br/>
 3 - Copiar os inserts do arquivo "inserts_estadosbrasil.txt" para realizar na consulta SQL na tabela "estados_brasil"
